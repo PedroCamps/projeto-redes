@@ -172,7 +172,7 @@ Projeto desenvolvido para a disciplina de Redes de Computadores - 2025/4
 
 **Data de Entrega**: 26/02/2026
 
-**Link do Repositório**: https://github.com/PedroCamps/redes
+**Link do Repositório**: https://github.com/PedroCamps/projeto-redes
 
 ---
 
